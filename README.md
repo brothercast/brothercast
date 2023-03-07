@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Anthonio (@brothercast) from the Pettit Bros. Brothercast and Structured Speculation.
-- 👀 I’m interested in Data Science
+- 👀 I’m interested in Data Science, Artificial Intelligence, Machine Learning and Naturual Language Processing (NLP).
 - 🌱 I'm a recent graduate of Udacity's Data Science Nanodegree program.
 - 💞️ I’m looking to collaborate on artificial intelligence and project management 
 - 📫 How to reach me: Twitter @ambp // LinkedIn https://linkedin.com/in/mighuel
