@@ -44,11 +44,10 @@ I approach development as a **holistic innovator**—building systems that exten
 
 ## 🔗 Connect
 
-- **Web:** [structuredspeculation.com](https://structuredspeculation.com) | [anthonio.net](https://anthonio.net)
+- **Web:** [The Accidental Intactivist's Inquiry](https://www.circumsurvey.online) | [TiniBio](https://tiny.bio/ambp)
 - **LinkedIn:** [linkedin.com/in/mighuel](https://linkedin.com/in/mighuel)
 - **Twitter:** [@ambp](https://twitter.com/ambp)
-- **Location:** Mount Vernon, WA
-
+- **Location:** Seattle, WA
 ---
 
 *From data science foundations to architecting AI-collaborative systems—building tools that bridge vision and execution.*
