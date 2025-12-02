@@ -11,7 +11,6 @@ I create frameworks that transform ambiguous possibilities into actionable outco
 **Active Projects:**
 - [**SSPEC PossPath**](https://github.com/brothercast/PossParse) - An AI-powered project management platform that enables mass collaboration through structured speculation
 - [**ExecuTrainSim**](https://github.com/brothercast/ExecuTrainSim) - Dynamic executive training simulations with AI-generated scenarios and branching decision trees
-- **CircumSurvey** - Community-based research initiative exploring perspectives on circumcision through structured data collection
 
 ## 🛠️ Technical Evolution
 
